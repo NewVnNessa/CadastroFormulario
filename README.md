@@ -1,1 +1,1 @@
-# CadastroFormulario
+Esse código foi criado com o intuito de testar um formulário onde o usuário coloca seus dados para se cadastrar no site. Se a aba não for preenchida corretamente, vai aparecer uma mensagem abaixo relatando o possível erro e só será possível realizar o cadastro, se todas as informações estiverem corretas. Senão, irá aparecer um alerta mostrando que não será possível realizar o cadastro.
